@@ -1,3 +1,9 @@
+Authors : 
+	DE MASFRAND Guillaume
+	DUFRENE Mélic
+	GILG Thibault
+	PUISSANT Fabien
+
 Full simulation :
 
 EmergencySimulation : java app containing the emergency simulator
